@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526993395544.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3935209761",
+    "id" : "10C93C0E",
+    "lastKnownWriteTime" : 1526993389,
+    "last_content_update" : 1526993389,
+    "path" : "~/fars/tests/testthat.R",
+    "project_path" : "tests/testthat.R",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

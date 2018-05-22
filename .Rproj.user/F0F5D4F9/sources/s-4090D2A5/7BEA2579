@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526993444875.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7BEA2579",
+    "lastKnownWriteTime" : 1526993727,
+    "last_content_update" : 1526993727107,
+    "path" : "~/fars/tests/testthat/test-fars_read.R",
+    "project_path" : "tests/testthat/test-fars_read.R",
+    "properties" : {
+        "cursorPosition" : "3,14",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
