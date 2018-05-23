@@ -18,7 +18,7 @@ the US National Highway Traffic Safety Administration
 }
 \examples{
 \dontrun{
-accident_2015 <- fars_read("data/accident_2015.csv.bz2")
+accident_2015 <- fars_read("accident_2015.csv.bz2")
 }
 
 }

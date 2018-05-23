@@ -9,7 +9,7 @@
 #'
 #' @examples
 #' \dontrun{
-#' accident_2015 <- fars_read("data/accident_2015.csv.bz2")
+#' accident_2015 <- fars_read("accident_2015.csv.bz2")
 #' }
 #'
 #' @importFrom readr read_csv
@@ -44,7 +44,6 @@ make_filename <- function(year) {
   year <- as.integer(year)
   sprintf("accident_%d.csv.bz2", year)
 }
-
 
 #' Read FARS data files
 #'
@@ -154,7 +153,7 @@ fars_map_state <- function(state.num, year) {
   with(data.sub, {
     maps::map("state", ylim = range(LATITUDE, na.rm = TRUE),
               xlim = range(LONGITUD, na.rm = TRUE))
-    graphics::points(LONGITUD, LATITUDE, pch = 46)
+    graphics::points(LONGITUD, LATITUDE, pch = 46, cex = 2, col =2)
   })
 }
 

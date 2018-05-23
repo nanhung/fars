@@ -4,7 +4,7 @@ Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: Nan-Hung Hsieh
 Maintainer: Nan-Hung Hsieh <nhsieh@cvm.tamu.edu>
-Description: Package for analyzing the data in Fatality Analysis Reporting System that sourced from US National Highway Traffic Safety Administration.
+Description: Package for analyzing the data in Fatality Analysis Reporting System (FARS) that sourced from US National Highway Traffic Safety Administration.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
